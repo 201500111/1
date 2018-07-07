@@ -7,3 +7,4 @@ function onDeviceReady() {
 		navigator.notification.alert("Hola "+nombre_usuario,null,"Bienvenido","ok");
 	});
 }
+
